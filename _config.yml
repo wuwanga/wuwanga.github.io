@@ -95,7 +95,7 @@ publication_category:
   cybersecurity:
     title: 'Network Security'
   ai:
-    title: 'LLMs and AI Security'
+    title: 'LLM and AI Security'
   systems:
     title: 'System Security'
 
