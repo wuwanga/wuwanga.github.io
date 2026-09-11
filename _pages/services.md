@@ -1,10 +1,7 @@
 ---
-permalink: /
 title: "Academic Services"
 author_profile: true
-redirect_from: 
-  - /services/
-  - /services.html
+permalink: /services/
 ---
 
 - [Conference Reviewer] INFOCOM 2026
