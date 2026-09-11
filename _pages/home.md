@@ -12,9 +12,10 @@ I am a Ph.D. candidate in Computer Science at the [Bellini College of Artificial
 
 Research Interests
 ======
-- System Security
 - Network Security
 - AI security
+- Systems Security
+
 
 News and Updates
 ======

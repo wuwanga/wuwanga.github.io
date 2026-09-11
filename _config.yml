@@ -98,6 +98,8 @@ publication_category:
     title: 'LLM and AI Security'
   systems:
     title: 'System Security'
+  hpcs:
+    title: 'High-Performance Computing'
 
 
 # Site Settings
