@@ -2,6 +2,32 @@
    JSON CV
    ========================================================================== */
 
+.cv-download-links {
+  margin: 0 0 1.25rem;
+}
+
+.cv-pdf-viewer {
+  width: 100%;
+  margin-bottom: 2rem;
+  border: 1px solid var(--global-border-color);
+  background: var(--global-bg-color);
+  overflow: hidden;
+
+  iframe {
+    display: block;
+    width: 100%;
+    height: min(85vh, 1100px);
+    border: 0;
+  }
+}
+
+.cv-pdf-fallback {
+  margin: 0;
+  padding: 1rem;
+  text-align: center;
+  color: var(--global-text-color-light);
+}
+
 /* CV Template Styles */
 .cv-container {
   max-width: 1000px;
