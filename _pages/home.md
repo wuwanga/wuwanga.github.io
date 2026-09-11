@@ -18,5 +18,7 @@ Research Interests
 
 News and Updates
 ======
-- [09/08/2026] Our work, led by Ph.D. Candidate, Yuwen Cui, "<b>Exploiting Wi-Fi Fingerprints for Practical Device Localization and Tracking in Public Environments</b>" has been accepted by IEEE Annual Computer Security Applications Conference ([ACSAC 2026](https://www.acsac.org/)).
+- [09/08/2026] Our work "<b>Exploiting Wi-Fi Fingerprints for Practical Device Localization and Tracking in Public Environments</b>" has been accepted by IEEE Annual Computer Security Applications Conference ([ACSAC 2026](https://www.acsac.org/)).
+- [04/06/2026] Our work "<b>A Multi-Agent Framework for High-Interaction Terminal Simulation</b>" has been accepted by the Main Conference of ACL 2026.
+- [02/03/2026] Our preliminary work "<b>Towards Model Drift Resistant Website Fingerprinting with Time-Series LLMs</b>", has been accepted to NDSS 2026 Poster Session.
 
