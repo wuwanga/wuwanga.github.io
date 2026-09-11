@@ -92,6 +92,12 @@ publication_category:
     title: 'Journal Articles'
   Preprints:
     title: 'Preprints'
+  systems:
+    title: 'System Security'
+  cybersecurity:
+    title: 'Network Security'
+  ai:
+    title: 'LLMs and AI Security'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
