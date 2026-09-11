@@ -2,6 +2,9 @@
 title: "Academic Services"
 author_profile: true
 permalink: /services/
+redirect_from:
+  - /services/
+  - /services.html
 ---
 
 - [Conference Reviewer] INFOCOM 2026
