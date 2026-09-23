@@ -100,6 +100,8 @@ publication_category:
     title: 'System Security'
   hpcs:
     title: 'High-Performance Computing'
+  presentations:
+    title: 'Presentations'
 
 
 # Site Settings
