@@ -19,6 +19,7 @@ Research Interests
 
 News and Updates
 ======
+- [10/25/2026] I’m honored to have been invited to serve as a reviewer for the  IEEE Transactions on Information Forensics and Security ([TIFS 2026](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)).
 - [10/18/2026] I’m honored to have been selected for the 2026 ACSAC Student Conferenceship and grateful for this opportunity to attend [ACSAC 2026](https://www.acsac.org/).
 - [09/08/2026] Our work "<b>Exploiting Wi-Fi Fingerprints for Practical Device Localization and Tracking in Public Environments</b>" has been accepted by IEEE Annual Computer Security Applications Conference ([ACSAC 2026](https://www.acsac.org/)).
 - [04/06/2026] Our work "<b>A Multi-Agent Framework for High-Interaction Terminal Simulation</b>" has been accepted by the Main Conference of ACL 2026.
